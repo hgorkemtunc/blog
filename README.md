@@ -13,7 +13,7 @@ Please check the official laravel installation guide for server requirements bef
 
 ### Clone the Repository
 
-    git clone 
+    git clone git@github.com:hgorkemtunc/blog.git
 
 ### Switch to the repo folder
 
